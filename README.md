@@ -1,7 +1,3 @@
-Samajh gaya! Aap chahte hain ke beech beech mein jo lines hain, wo na ho. Yahan aapka updated README file hai without extra lines:
-
----
-
 # 🔐 Password Strength Meter
 
 ## 📌 Objective
